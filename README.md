@@ -1,16 +1,17 @@
-### Hi there 👋
+# Shun-Lung Chang
 
-<!--
-**slchangtw/slchangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-ShunLungChang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shun-lung-chang/)](https://www.linkedin.com/in/shun-lung-chang/) [![CheckIO Badge](https://img.shields.io/badge/-ShunLungChang-FFA500?style=flat-square&logo=CheckIO&logoColor=white&link=https://py.checkio.org/user/slchangtw/)](https://py.checkio.org/user/slchangtw/) [![Gmail Badge](https://img.shields.io/badge/-ShunLungChang-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shunlung.chang@gmail.com)]()
 
-Here are some ideas to get you started:
+## Hey hey👋🏻, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am Shun-Lung and working as a Data scientist/Machine Learning Engineer in Germany.
+---
+
+# About me
+
+- 🇹🇼 From Taiwan
+- 🐍 Enthusiastic Pythonist, always on the way writing better code.
+- 🔬 Currently focusing on MLOps and language models
+- 💪🏼 Enjoy working out and photography
+- Fun fact: the Lung in my name is not the organ, but a Chinese character meaning dragon. 🐉
+
